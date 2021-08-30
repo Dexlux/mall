@@ -1,5 +1,9 @@
 @import './normalize.css';
 
+:root {
+  --color-tint: #FF8D97;
+}
+
 *{
   padding: 0;
   margin: 0;

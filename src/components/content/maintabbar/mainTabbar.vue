@@ -1,6 +1,6 @@
 <template>
   <tabbar>
-    <tabbarItem path="/index" activeColor="#1296DB">
+    <tabbarItem path="/index" activeColor="#FF8E97">
       <img src="~assets/img/tabbar/index/index.svg" alt="" slot="item-icon" />
       <img
         src="~assets/img/tabbar/index/indexa.svg"
@@ -9,7 +9,7 @@
       />
       <div slot="item-text">首页</div>
     </tabbarItem>
-    <tabbarItem path="/fenlei" activeColor="#1296DB">
+    <tabbarItem path="/fenlei" activeColor="#FF8E97">
       <img src="~assets/img/tabbar/fenlei/fenlei.svg" alt="" slot="item-icon" />
       <img
         src="~assets/img/tabbar/fenlei/fenleia.svg"

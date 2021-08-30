@@ -20,7 +20,7 @@ export default {
     path: String,
     activeColor: {
       type: String,
-      default: "skyblue",
+      default: "#FF8E97",
     },
   },
   methods: {
@@ -44,6 +44,6 @@ export default {
 }
 
 .active {
-  color: #1296db;
+  color: #ff8e97;
 }
 </style>
